@@ -1,5 +1,4 @@
-In this project, let's build a **Browser History** app by applying the concepts we have learned till now.
-
+In this project, let's build a **Browser History** app.
 ### Refer to the image below:
 
 <br/>
@@ -18,7 +17,48 @@ In this project, let's build a **Browser History** app by applying the concepts 
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Empty History View](https://assets.ccbp.in/frontend/content/react-js/browser-history-empty-view-lg-output.png)
 
 </details>
+# React Browser History App
 
+A dynamic React application that mimics a browser history dashboard. It allows users to view a list of visited websites, search through their history logs in real-time, and delete individual records dynamically.
+
+## 🚀 Live Demo
+*(Optional: Add your deployed link here once you host it, e.g., Netlify / Vercel)*
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend Library:** React.js (Functional Components & State Management)
+* **Styling:** CSS3 (Custom responsive layouts and Flexbox)
+* **Icons:** Developer-provided static assets (Search, Delete, and Website Logos)
+* **Environment:** Node.js & npm
+
+---
+
+## ✨ Features
+
+* **Real-time Search Filtering:** Dynamically filters the history list as the user types in the search input case-insensitively.
+* **Dynamic Deletion:** Users can remove individual history items from the list instantly without reloading.
+* **Empty State Handling:** Displays a clean "There is no history to show" message when all items are deleted or no search results match.
+* **Responsive UI:** Designed to look clean across desktop and mobile screens.
+
+---
+
+## 📸 Screenshots
+
+| Desktop Dashboard | Empty History State |
+|---|---|
+| *(Add screenshot link here)* | *(Add screenshot link here)* |
+
+---
+
+## ⚙️ Installation & Setup
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Sridhar-medishetti/browser-history-app.git](https://github.com/Sridhar-medishetti/browser-history-app.git)
 ### Set Up Instructions
 
 <details>
